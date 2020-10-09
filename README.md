@@ -8,3 +8,12 @@ Seiring berkembangnya teknologi, cara berbisnis pun mengalami perubahan dari ber
 
 Namun seringkali orang yang mau mulai berbisnis online tidak tahu barang apa yang mau ia jual. Berapa harga barang yang ingin dijual, jika dijual dengan harga segini apakah kemurahan atau kemahalan? Berapa harga yang tepat supaya barang laku dan seller untung bukan malah buntung? Itu adalah beberapa problem yang sering menghantui seller pemula (termasuk saya sendiri). Maka dari itu saya ingin melakukan analisis untuk mengetahui barang apa yang tepat untuk dijual dan berapa harga yang tepat untuk suatu barang.
 
+## Bentuk data
+![Image of data](https://github.com/alamalfaris/Exploratory-Data-Analysis--E-Commerce-Addition--/blob/main/data_head.PNG?raw=true)
+
+## Kesimpulan dan Rekomendasi
+1. Berdasarkan data, dari seluruh kategori, Perfumes & Fragrances merupakan barang yang paling laris, ditinjau dari rata-rata percentage unit sold nya
+2. Parfum dengan % unit sold tertinggi adalah Mancera Roses Vanille for Unisex - Eau de Parfum, 120ml
+3. Parfum dengan % unit sold tertinggi didominasi oleh parfum pria bermerek Calvin Klein dan Davidoff
+4. Jika seller tidak punya modal yang besar disarankan untuk menjual parfum Jovan Musk for Women - Eau de Cologne, 59ml dan United Colors Of Benetton Hot Gold for Women - Eau de Toilette , 100ml karena parfum-parfum tersebut mempunyai harga yang murah di-bawah 80 USD tetapi punya % unit sold yang tinggi di-atas 90%, sehingga bisa mendapatkan keuntungan maksimal dengan modal yang kecil
+5. Jika seller punya modal yang besar disarankan untuk menjual Mancera Roses Vanille for Unisex - Eau de Parfum, 120ml, Burberry London for Women - Eau de Parfum, 100ml, Calvin Klein Euphoria Intense for Men - Eau de Toilette, 100ml karena walaupun parfum-parfum tersebut punya harga yang tinggi tetapi % unit sold nya juga tinggidi-atas 95%
